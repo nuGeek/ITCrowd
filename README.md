@@ -1,3 +1,3 @@
 # ITCrowd
 Only the best DECO3801 project of the century! 
-View the project at https://app.netlify.com/sites/amazing-euclid-95888d
+View the project at amazing-euclid-95888d.netlify.com
